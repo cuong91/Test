@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="12628" started-at="2017-05-19T09:15:46Z" finished-at="2017-05-19T09:15:59Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="12628" started-at="2017-05-19T09:15:46Z" finished-at="2017-05-19T09:15:59Z">
+      <class name="com.cuong.automation.Automation">
+        <test-method status="PASS" signature="loginScreen()[pri:0, instance:com.cuong.automation.Automation@3e6fa38a]" name="loginScreen" duration-ms="6186" started-at="2017-05-19T16:15:46Z" finished-at="2017-05-19T16:15:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginScreen -->
+        <test-method status="PASS" signature="getData()[pri:0, instance:com.cuong.automation.Automation@3e6fa38a]" name="getData" duration-ms="6429" started-at="2017-05-19T16:15:52Z" finished-at="2017-05-19T16:15:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getData -->
+      </class> <!-- com.cuong.automation.Automation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
