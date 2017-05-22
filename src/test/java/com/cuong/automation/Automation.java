@@ -68,7 +68,7 @@ public class Automation {
 		HSSFWorkbook workbook = new HSSFWorkbook();
 		HSSFSheet sheet= workbook.createSheet("User Data");
 		Map<String,Object[]> data = new TreeMap<String, Object[]>();
-		data.put("1", new Object[]{"Numerical order","Information","Detail"});
+		data.put("2", new Object[]{"Numerical order","Information","Detail"});
 		data.put("2", new Object[]{1,userName,valueUserName});
 		data.put("3", new Object[]{2,fullName,valueFullName});
 		data.put("4", new Object[]{3,email,valueEmail});
